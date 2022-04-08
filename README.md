@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hi there 😄 
+
+⚡ The way was long, and wrapped in gloom did seem, as I urged on to seek my fantastic dream~
+
+🌱 I'm a sophomore student from SUSTech
+
+🔭 currently working on updating the resource and code I have learned and implemented in class.
+
+🌱 currently learning Algorithm Design, Computer Network, Computer Composition and Software Engineering...
+
+⚡ Always looking forward to new things!
+
+✨ Thristy for new project...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Q-LMQ&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Q-LMQ&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD1544&ring=DD573C&fire=D7DD1B&background=A6FCFF&dates=DDB166&border=DD25D4&currStreakNum=DD2C19&sideNums=DD2727&currStreakLabel=DD2727&sideLabels=DD2727)](https://git.io/streak-stats)
+
+
