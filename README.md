@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-Hi there 😄 
-
 ⚡ The way was long, and wrapped in gloom did seem, as I urged on to seek my fantastic dream~
 
 🌱 I'm a sophomore student from SUSTech
