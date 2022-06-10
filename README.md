@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adventure&repo=CS214-Simple-CPU&show_owner=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adventure&show_owner=true&repo=CS305-Computer-Network&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adventure&repo=CS205-CPP-projects&show_owner=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adventure&repo=CS205-CPP-projects&show_owner=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adventure&repo=CS216-Algorithm-Design&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Adventure&langs_count=12&layout=compact&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
