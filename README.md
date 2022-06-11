@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Adventure&langs_count=12&layout=compact&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Leo-Adventure&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adventure&repo=CS214-Simple-CPU&show_owner=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adventure&show_owner=true&repo=CS305-Computer-Network&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -40,7 +38,6 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Adventure&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leo-Adventure&theme=blue-green)](https://git.io/streak-stats)
 
-
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Leo-Adventure&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
