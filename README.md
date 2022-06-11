@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![](https://img.shields.io/badge/status-final%20examing-red)
 
 ⚡ The way was long, and wrapped in gloom did seem, as I urged on to seek my fantastic dream~
 
