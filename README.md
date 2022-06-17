@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+!++I'm+MQ-Adventure;Welcome+to+my+Github+page+!)](https://git.io/typing-svg)
 
 <!--
 **Leo-Adventure/Leo-Adventure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
@@ -14,7 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://img.shields.io/badge/status-final%20examing-red)
+
+![](https://img.shields.io/badge/status-on%20vacation-brightgreen) ![visitors](https://visitor-badge.glitch.me/badge?page_id=Leo-Adventure_README.md&left_color=&right_color=blue)
+
+![Metrics](https://metrics.lecoq.io/Leo-Adventure?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
 
 ⚡ The way was long, and wrapped in gloom did seem, as I urged on to seek my fantastic dream~
 
@@ -28,7 +32,9 @@ Here are some ideas to get you started:
 
 ✨ Thristy for new project...
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Adventure&langs_count=12&layout=compact&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adventure&repo=CS214-Simple-CPU&show_owner=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adventure&show_owner=true&repo=CS305-Computer-Network&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
