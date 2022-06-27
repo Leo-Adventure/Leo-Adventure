@@ -16,7 +16,9 @@ Here are some important ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://img.shields.io/badge/status-on%20vacation-brightgreen) ![visitors](https://visitor-badge.glitch.me/badge?page_id=Leo-Adventure_README.md&left_color=&right_color=blue)
+![](https://img.shields.io/badge/status-On%20Summer%20Semester-orange)![visitors](https://visitor-badge.glitch.me/badge?page_id=Leo-Adventure_README.md&left_color=&right_color=blue)
+
+
 
 ![Metrics](https://metrics.lecoq.io/Leo-Adventure?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
 
@@ -26,7 +28,7 @@ Here are some important ideas to get you started:
 
 🔭 currently working on updating the resource and code I have learned and implemented in class.
 
-🌱 currently learning Algorithm Design, Computer Network, Computer Composition and Software Engineering...
+🌱 currently learning Artificial Intelligence, Operating System...
 
 ⚡ Always looking forward to new things!
 
