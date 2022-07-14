@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+!++I'm+MQ-Adventure;Welcome+to+my+Github+page+!)](https://git.io/typing-svg)
+[![Typing SVG](https://img.shields.io/badge/status-Tuning%20Parameter-blue)]
 
 
 <!--
