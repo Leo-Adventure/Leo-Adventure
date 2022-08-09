@@ -16,7 +16,7 @@ Here are some important ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://img.shields.io/badge/status-CARPing-green)![](https://img.shields.io/badge/Feeling-Rich%20Life-green)![](https://img.shields.io/badge/%E6%83%B3%E8%AF%B4%E7%9A%84%E8%AF%9D-OS%20%E5%A4%AA%E9%9A%BE%E5%95%A6-blue)![visitors](https://visitor-badge.glitch.me/badge?page_id=Leo-Adventure_README.md&left_color=&right_color=blue)![]([https://img.shields.io/badge/status-On%20Summer%20Semester-orange](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeo-Adventure1212%2Fhit-counter))
+![](https://img.shields.io/badge/status-on%20vacation-brightgreen)![](https://img.shields.io/badge/Feeling-Rich%20Life-green)![](https://img.shields.io/badge/%E6%83%B3%E8%AF%B4%E7%9A%84%E8%AF%9D-OS%20%E5%A4%AA%E9%9A%BE%E5%95%A6-blue)![visitors](https://visitor-badge.glitch.me/badge?page_id=Leo-Adventure_README.md&left_color=&right_color=blue)![]([https://img.shields.io/badge/status-On%20Summer%20Semester-orange](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeo-Adventure1212%2Fhit-counter))
 
 
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)![](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
