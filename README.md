@@ -16,7 +16,7 @@ Here are some important ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://img.shields.io/badge/status-on%20vacation-brightgreen)![](https://img.shields.io/badge/Feeling-Rich%20Life-green)![visitors](https://visitor-badge.glitch.me/badge?page_id=Leo-Adventure_README.md&left_color=&right_color=blue)![]([https://img.shields.io/badge/status-On%20Summer%20Semester-orange](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeo-Adventure1212%2Fhit-counter))
+![](https://img.shields.io/badge/status-new%20start-green)![](https://img.shields.io/badge/Feeling-Rich%20Life-green)![visitors](https://visitor-badge.glitch.me/badge?page_id=Leo-Adventure_README.md&left_color=&right_color=blue)![]([https://img.shields.io/badge/status-On%20Summer%20Semester-orange](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeo-Adventure1212%2Fhit-counter))
 
 
 ![](https://github-profile-trophy.vercel.app/?username=Leo-Adventure&theme=monokai)
