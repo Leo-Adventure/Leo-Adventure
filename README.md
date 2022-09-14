@@ -30,7 +30,7 @@ Here are some important ideas to get you started:
 
 🔭 currently working on updating the resource and code I have learned and implemented in class.
 
-🌱 currently learning TOEFL, Deep Learning, Machine Learning, Compiler, Object-Oriented Analysis and Design...
+🌱 currently learning TOEFL, Deep Learning, Machine Learning, Compiler, Computer Security and Object-Oriented Analysis and Design...
 
 ⚡ Always looking forward to new things!
 
