@@ -27,7 +27,7 @@ Here are some important ideas to get you started:
 
 🔭 currently working on updating the resource and code I have learned and implemented in class.
 
-🌱 currently learning TOEFL, Deep Learning, Machine Learning, Compiler, Computer Security and Object-Oriented Analysis and Design...
+🌱 currently learning Deep Learning, Computer Vision, Machine Learning, Operating System...
 
 ⚡ Always looking forward to new things!
 
