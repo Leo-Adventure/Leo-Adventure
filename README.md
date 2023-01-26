@@ -23,7 +23,7 @@ Here are some important ideas to get you started:
 
 ⚡ The way was long, and wrapped in gloom did seem, as I urged on to seek my fantastic dream~
 
-🌱 I'm a junior student in SUSTech
+🌱 I'm a junior student studying in UC, Berkeley.
 
 🔭 currently working on updating the resource and code I have learned and implemented in class.
 
