@@ -34,9 +34,6 @@ Here are some important ideas to get you started:
 ✨ Thristy for new project...
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Adventure&langs_count=12&layout=compact&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Adventure&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
