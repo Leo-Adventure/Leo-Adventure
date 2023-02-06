@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Leo-Adventure%2C+nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Leo-Adventure;Nice+to+meet+you!)](https://git.io/typing-svg)
 <!--
 **Leo-Adventure/Leo-Adventure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
