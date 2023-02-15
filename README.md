@@ -25,6 +25,8 @@ Here are some important ideas to get you started:
 
 🌱 I'm a junior student studying in UC, Berkeley currently.
 
+🔭 Interested in Machine Learning, Deep learning and Artificial Intelligence, want to explore more!
+
 🔭 currently working on updating the resource and code I have learned and implemented in class.
 
 🌱 currently learning Deep Learning, Computer Vision, Machine Learning, Operating System...
