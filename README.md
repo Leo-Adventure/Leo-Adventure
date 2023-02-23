@@ -29,7 +29,7 @@ Here are some important ideas to get you started:
 
 🔭 currently working on updating the resource and code I have learned and implemented in class.
 
-🌱 currently learning Deep Learning, Computer Vision, Machine Learning, Operating System...
+🌱 currently learning Machine Learning, Deep Learning, Computer Vision, and Operating System...
 
 ⚡ Always looking forward to new things!
 
