@@ -23,7 +23,7 @@ Here are some important ideas to get you started:
 
 ⚡ The way was long, and wrapped in gloom did seem, as I urged on to seek my fantastic dream~
 
-🌱 I'm a junior student studying in UC, Berkeley currently.
+🌱 I'm a junior student studying in UC, Berkeley currently, and looking for summer research on machine learning.
 
 🔭 Interested in Machine Learning, Deep learning and Reinforce Learning, want to explore more!
 
