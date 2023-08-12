@@ -23,17 +23,18 @@ Here are some important ideas to get you started:
 
 ⚡ The way was long, and wrapped in gloom did seem, as I urged on to seek my fantastic dream~
 
-🌱 I'm a junior student looking for Ph.D. in deep learning in China
+🌱 I'm a junior student looking for Ph.D. in deep learning in America
 
-🔭 Interested in Machine Learning, Deep learning and Reinforce Learning, want to explore more!
+❤️ I'm currently doing research at Johns Hopkins University under the guidance of Prof. Vishal
+
+🔭 Interested in NeRF of computer vision and deep learning, want to explore more!
 
 🔭 currently working on updating the resource and code I have learned and implemented in class.
 
-🌱 currently learning Machine Learning, Deep Learning, Computer Vision, and Operating System...
 
 ⚡ Always looking forward to new things!
 
-✨ Thristy for new project...
+✨ Thristy for new things...
 
 
 
