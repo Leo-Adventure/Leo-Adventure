@@ -23,7 +23,7 @@ Here are some important ideas to get you started:
 
 ⚡ The way was long, and wrapped in gloom did seem, as I urged on to seek my fantastic dream~
 
-❤️ I'm currently doing research at Johns Hopkins University under the guidance of Prof. Vishal, this is my web page ![Mingqian Liao](https://engineering.jhu.edu/vpatel36/team/mingqian-liao/)
+❤️ I'm currently doing research at Johns Hopkins University under the guidance of Prof. Vishal, this is my web page <https://engineering.jhu.edu/vpatel36/team/mingqian-liao/>
 
 🌱 I'm a junior student looking for Ph.D. in computer vision and deep learning in United States
 
