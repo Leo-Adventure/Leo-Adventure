@@ -19,11 +19,9 @@ Here are some important ideas to get you started:
 ![](https://img.shields.io/badge/status-fighting-orange)![](https://img.shields.io/badge/Feeling-Rich%20Life-green)![]([https://img.shields.io/badge/status-On%20Summer%20Semester-orange](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeo-Adventure1212%2Fhit-counter))
 
 
-![Metrics](https://metrics.lecoq.io/Leo-Adventure?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
+❤️ I'm currently doing research at Johns Hopkins University under the guidance of Prof. Vishal <https://engineering.jhu.edu/vpatel36/team/mingqian-liao/>
 
 ⚡ The way was long, and wrapped in gloom did seem, as I urged on to seek my fantastic dream~
-
-❤️ I'm currently doing research at Johns Hopkins University under the guidance of Prof. Vishal, this is my web page <https://engineering.jhu.edu/vpatel36/team/mingqian-liao/>
 
 🌱 I'm a junior student looking for Ph.D. in computer vision and deep learning in United States
 
@@ -32,7 +30,6 @@ Here are some important ideas to get you started:
 ⚡ Always looking forward to new things!
 
 ✨ Thristy for new things...
-
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Adventure&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
