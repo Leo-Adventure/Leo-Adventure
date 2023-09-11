@@ -31,6 +31,3 @@ Here are some important ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Adventure&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leo-Adventure&theme=blue-green)](https://git.io/streak-stats)
-
-
