@@ -33,8 +33,4 @@ Here are some important ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leo-Adventure&theme=blue-green)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Leo-Adventure&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![]([https://img.shields.io/badge/status-On%20Summer%20Semester-orange](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leo-Adventure&theme=vue))
-
 
