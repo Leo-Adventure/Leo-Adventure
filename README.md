@@ -18,9 +18,6 @@ Here are some important ideas to get you started:
 
 ![](https://img.shields.io/badge/status-fighting-orange)![](https://img.shields.io/badge/Feeling-Rich%20Life-green)![]([https://img.shields.io/badge/status-On%20Summer%20Semester-orange](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeo-Adventure1212%2Fhit-counter))
 
-
-❤️ I'm currently doing research at Johns Hopkins University.
-
 ⚡ The way was long, and wrapped in gloom did seem, as I urged on to seek my fantastic dream~
 
 🌱 I'm a senior student looking for Ph.D. in computer vision and deep learning
