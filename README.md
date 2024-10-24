@@ -20,7 +20,7 @@ Here are some important ideas to get you started:
 
 ⚡ The way was long, and wrapped in gloom did seem, as I urged on to seek my fantastic dream~
 
-🌱 I'm a senior student looking for Ph.D. in computer vision and deep learning
+🌱 I'm a M.Phil. student looking for Ph.D. in Computer Vision
 
 🔭 Interested in NeRF of computer vision and deep learning, want to explore more!
 
